@@ -104,6 +104,11 @@ body {
     color: white;
     cursor: pointer;
 }
+.Shop-button{
+    background-color: #1D232C;
+    color: #f2f4f7;
+    text-decoration: none;
+}
 
 /* service */
 
